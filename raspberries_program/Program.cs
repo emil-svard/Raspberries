@@ -14,6 +14,9 @@ namespace raspberries_program
             // Initial greeting
             Console.WriteLine("Hello you git!");
 
+            // Now let's build some arrays for calcs of roleplay strengths
+            int playerStrength = 5;
+            Console.WriteLine(playerStrength);
         }
     }
 }
